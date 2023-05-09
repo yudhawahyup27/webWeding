@@ -3,7 +3,7 @@ const config = useAppConfig()
 </script>
 <template>
     <div>
-        <div class="hero  bg-[url('/assets/img/hero.jpg')]  bg-cover   h-screen  w-screen">
+        <div class="hero  bg-[url('/assets/img/hero.jpeg')]  bg-cover   h-screen  w-screen">
             <div class="isi static">
                 <h1 class="text-center pt-10  font-bold text-xl text-white  lg:text-2xl ">Our Wedding </h1>
 
