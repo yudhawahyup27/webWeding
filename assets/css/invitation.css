@@ -1,0 +1,6 @@
+.bride #bride {
+    position: absolute;
+    color: aliceblue;
+    left: 150px;
+    transform: translateY(-50%) rotate(-90deg);
+}

@@ -4,5 +4,8 @@ export default defineNuxtConfig({
     typescript: {
     strict: true
   },
-   css: ['vue-final-modal/style.css'],
+   css: [
+    'vue-final-modal/style.css',
+
+  ],
 })
