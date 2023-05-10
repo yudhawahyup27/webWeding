@@ -9,14 +9,17 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@nuxtjs/moment": "^1.6.1",
     "@nuxtjs/tailwindcss": "^6.6.7",
     "@types/node": "^18",
+    "@types/vue-moment": "^4.0.3",
     "nuxt": "^3.4.3",
     "prettier": "2.8.8"
   },
   "dependencies": {
     "@chenfengyuan/vue-countdown": "^2.1.1",
     "vue": "^3.2.47",
+    "vue-final-modal": "^4.4.2",
     "vue3-flip-countdown": "^0.1.6"
   }
 }
