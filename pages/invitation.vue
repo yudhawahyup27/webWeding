@@ -39,8 +39,10 @@ export default ({
                             alt="">
                     </div>
                     <div class="md:w-1/2 text-left ">
+                        <!-- Label Bride -->
                         <h1 id="bride" class="bride my-2 text-xl font-bold rotate-90 absolute  top-24 bottom-80 ">THE BRIDE
                         </h1>
+                        <!-- Content Bride -->
                         <div class="bride_content text-center">
                             <h1 class="text-2xl font-bold ">
                                 Nur Kotimah
